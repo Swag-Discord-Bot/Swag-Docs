@@ -1,4 +1,4 @@
-![enter image description here](https://github.com/Swag-Discord-Bot/Swag-Docs/blob/main/Assets/DocsLogo.png?raw=true)
+![enter image description here](Assets/DocsLogo.png)
 
 Please view [Docs/Home](Docs/Home.md) for documentation. 
 
