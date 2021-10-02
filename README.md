@@ -1,7 +1,10 @@
 ![enter image description here](https://github.com/Swag-Discord-Bot/Swag-Docs/blob/main/Assets/DocsLogo.png?raw=true)
 
 Please view [Docs/Home](https://github.com/Swag-Discord-Bot/Swag-Docs/blob/main/Docs/Home.md) for documentation. 
-This repositor is currently under the [Apache License 2.0](https://github.com/Swag-Discord-Bot/Swag-Docs/blob/main/LICENSE).
+
+This repository is currently under the [Apache License 2.0](https://github.com/Swag-Discord-Bot/Swag-Docs/blob/main/LICENSE).
+
+---
 
 If you would like to contribue to the doccumentation, you can clone the repoistory like so:
 ```
