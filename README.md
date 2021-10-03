@@ -1,4 +1,4 @@
-![](Assets/DocsLogo.png)
+![](https://github.com/Swag-Discord-Bot/Swag-Docs/blob/main/Assets/DocsLogo.png?raw=true)
 
 Please view [Docs/Home](Docs/Home.md) for documentation. 
 
