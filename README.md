@@ -1,4 +1,4 @@
-![enter image description here](Assets/DocsLogo.png)
+![](Assets/DocsLogo.png)
 
 Please view [Docs/Home](Docs/Home.md) for documentation. 
 
