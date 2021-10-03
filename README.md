@@ -6,7 +6,7 @@ This repository is currently under the [Apache License 2.0](LICENSE).
 
 ---
 
-If you would like to contribue to the doccumentation, you can clone the repoistory like so:
+If you would like to contribute to the documentation, you can clone the repository like so:
 ```
 git clone https://github.com/Swag-Discord-Bot/Swag-Docs.git
 ```
