@@ -12,9 +12,9 @@
 # Overview
 
 The following terms will go over the following:
-\- How you may use our service and what rights we hold when you use our service.
-\- What data we collect while you use our service. (User and guild.)
-\- Contact information for concerns or support.
+- How you may use our service and what rights we hold when you use our service.
+- What data we collect while you use our service. (User and guild.)
+- Contact information for concerns or support.
 
 # Usage
 
