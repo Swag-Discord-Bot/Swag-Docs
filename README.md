@@ -1,6 +1,6 @@
 ![](https://github.com/Swag-Discord-Bot/Swag-Docs/blob/main/Assets/DocsLogo.png?raw=true)
 
-Please view [Docs/Home](Docs/Home.md) for documentation. 
+Please view [Docs/Home](docs/Home.md) for documentation. 
 
 This repository is currently under the [Apache License 2.0](LICENSE).
 
