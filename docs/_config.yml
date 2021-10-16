@@ -1,3 +1,2 @@
 remote_theme: abhinavs/moonwalk
 plugins: ["jekyll-seo-tag"]
-favicon: "logo.png"
