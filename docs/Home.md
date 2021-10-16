@@ -1,5 +1,4 @@
 ![](https://github.com/Swag-Discord-Bot/Swag-Docs/blob/main/Assets/DocsLogo.png?raw=true)
 
-*If you are looking for the Terms of Service, please [click here](Terms.md).*
+**Home** | [Terms](Terms.md) | [Support Server](https://discord.gg/xsapSxGaeV)
 
-Docs coming soon!
