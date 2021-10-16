@@ -1,13 +1,2 @@
 remote_theme: abhinavs/moonwalk
 plugins: ["jekyll-seo-tag"]
-@mixin dark-appearance {
-  html, body  {
-      --bg: #1f242A;
-      --bg-secondary: #323945;
-      --headings: #3D9970;
-      --text: #adb5bd;
-      --links: #91a7ff;
-      --highlight: #ffd8a8;
-      --highlight: #ffd43b;
-  };
-}
