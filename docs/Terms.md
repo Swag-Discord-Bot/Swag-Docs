@@ -2,7 +2,7 @@
 
 [Home](Home.md) | **Terms** | [Support Server](https://discord.gg/xsapSxGaeV)
 
-*Last updated Oct 3, 2021.*
+*Last updated Oct 16, 2021.*
 
 - [Overview](#overview)
 - [Usage](#usage)
