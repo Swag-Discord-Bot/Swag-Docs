@@ -1,6 +1,6 @@
 ![](https://github.com/Swag-Discord-Bot/Swag-Docs/blob/main/Assets/TermsLogo.png?raw=true)
 
-[Home](Home.md) | **Terms** | [Support Server](https://discord.gg/xsapSxGaeV)
+[Home](Home.md) / **Terms** / [Support Server](https://discord.gg/xsapSxGaeV)
 
 *Last updated Oct 16, 2021.*
 
