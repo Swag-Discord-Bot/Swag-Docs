@@ -4,7 +4,7 @@
 
 *Last updated Oct 16, 2021.*
 
-Welcome to Swag's Documentation! The easiest way to get started is by mentioning Swag in chat, you'll get a response with useful information on how to view the list of commands. (Ex. swg!help)
+Welcome to Swag's documentation! The easiest way to get started is by mentioning Swag in chat, you'll get a response with useful information on how to view the list of commands. (Ex. swg!help)
 
 Before you get started with Swag theirs a few things you need to know:
 - Swag needs permission to perform certain actions, most of the time you'll get a message saying Swag doesn't have the correct permissions. However, if Swag can't send a message in the channel then Swag won't send anything and will stop the current action being performed.
@@ -13,7 +13,7 @@ Before you get started with Swag theirs a few things you need to know:
 
 *If there is something you need to know about a specific command, it will be included on the command's page.*
 
-Now let's get into the fun stuff. Here is a list of all documented commands. If you need more help then please join our [Support Server](https://discord.gg/xsapSxGaeV).
+Now let's get into the fun stuff. Here is a list of all documented commands. If you need more help then Swag's documentation can provide, please join our [Support Server](https://discord.gg/xsapSxGaeV).
 
 - **Animals**
   - cat
