@@ -2,7 +2,7 @@
 
 **Home** | [Terms](Terms.md) | [Support Server](https://discord.gg/xsapSxGaeV)
 
-Last updated Oct 16, 2021.
+*Last updated Oct 16, 2021.*
 
 Welcome to Swag's Documentation! The easiest way to get started is by mentioning Swag in chat, you'll get a response with useful information on how to view the list of commands. (Ex. swg!help)
 
