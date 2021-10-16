@@ -1,5 +1,7 @@
 ![](https://github.com/Swag-Discord-Bot/Swag-Docs/blob/main/Assets/TermsLogo.png?raw=true)
 
+[Home](Home.md) | **Terms** | [Support Server](https://discord.gg/xsapSxGaeV)
+
 *Last updated Oct 3, 2021.*
 
 - [Overview](#overview)
@@ -38,5 +40,3 @@ For guilds, like user settings, we store specified guild settings. These can be 
 # Contact
 
 If you have any concerns about these terms or just need support, please contact us by joining our [Discord Server](https://discord.gg/xsapSxGaev). At this time we do not have a contact email or phone number, apologies. 
-
-[Home](Home.md) | [Terms](Terms.md) | [Support Server](https://discord.gg/xsapSxGaeV)
