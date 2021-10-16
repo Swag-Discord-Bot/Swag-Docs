@@ -1,3 +1,5 @@
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+
 ![](https://github.com/Swag-Discord-Bot/Swag-Docs/blob/main/Assets/TermsLogo.png?raw=true)
 
 [Home](Home.md) / **Terms** / [Support Server](https://discord.gg/xsapSxGaeV)
