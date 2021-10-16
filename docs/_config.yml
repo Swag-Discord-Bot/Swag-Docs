@@ -1,2 +1,2 @@
-remote_theme: abhinavs/moonwalk
+remote_theme: andrewhwanpark/dark-poole
 plugins: ["jekyll-seo-tag"]
