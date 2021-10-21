@@ -1,0 +1,16 @@
+body {
+   color: white;
+   background-color: #363332;
+   font-family: Arial, Helvetica, sans-serif;
+   border-style: solid;
+   border-width: 10px;
+   border-color: #363332;
+}
+
+a {
+  color: #7a99c2;
+}
+
+a:hover {
+  color: white;
+}
