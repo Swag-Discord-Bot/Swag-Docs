@@ -25,7 +25,9 @@ Currently, Swag has the following commands as of Thu, Oct 28:
 • **botinfo** - Some technical information about Swag.  
 • **credits** - Information about the developers behind Swag.  
 • **leaderboard** - View leaderboards, for example, trivia streak leaderboard.  
-• **setbio** - Set the bio for your Swag profile! _(Profiles coming soon.)_  
+• **setbio** - Set the bio for your Swag profile! _(Profiles coming soon.)_ 
+
+Swag's prefix is `swg!` (Ex, `swg!help`), however you can also mention Swag. (Ex, `@Swag help`)
    
 More features are coming soon, for example:  
 • **Ability to change prefix.**  
