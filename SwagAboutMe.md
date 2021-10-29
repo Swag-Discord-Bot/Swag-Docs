@@ -36,4 +36,6 @@ More features are coming soon, for example:
    
 So what are you waiting for, [invite Swag today](https://discord.com/api/oauth2/authorize?client_id=658377089954873355&permissions=517544070208&scope=bot%20applications.commands)!  
    
+---
+
 [Swag About Me](https://github.com/Swag-Discord-Bot/Swag-Docs/blob/main/SwagAboutMe.md) • Version 1.3
